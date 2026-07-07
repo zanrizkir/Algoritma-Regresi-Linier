@@ -17,8 +17,6 @@ Repositori ini terdiri dari dua studi kasus utama:
 3. **`Salary_Data.csv`**
    * *File* berekstensi *Comma Separated Values* yang berisi dataset riwayat pengalaman kerja dan gaji.
 
-4. **`.gitignore`**
-   * Digunakan untuk mengecualikan *file* cadangan otomatis dari Jupyter Notebook (seperti folder `.ipynb_checkpoints/`) agar tidak mengotori repositori.
 
 ## 🛠️ Teknologi & Pustaka (Libraries)
 
@@ -36,4 +34,4 @@ Jika Anda ingin menjalankan kode ini di komputer Anda sendiri, ikuti langkah-lan
 
 1. *Clone* repositori ini ke komputer lokal Anda:
    ```bash
-   git clone [https://github.com/UsernameKamu/NamaRepositoriKamu.git](https://github.com/UsernameKamu/NamaRepositoriKamu.git)
+   git clone https://github.com/zanrizkir/Algoritma-Regresi-Linier
